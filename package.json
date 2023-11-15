@@ -1,7 +1,7 @@
 {
   "name": "zohoproject",
   "version": "0.1.0",
-  "homepage": "https://pavithra-1123.github.io/ZohoTechCropProject",
+  "homepage": "https://pavithra-1123.github.io/ReactJS_ZTC_HOSTING",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
