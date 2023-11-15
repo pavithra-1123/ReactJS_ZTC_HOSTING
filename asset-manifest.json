@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/ReactJS_ZTC_HOSTING/static/css/main.6afb122f.css",
+    "main.js": "/ReactJS_ZTC_HOSTING/static/js/main.bd3f9ee5.js",
+    "static/media/company.jpg": "/ReactJS_ZTC_HOSTING/static/media/company.4234fa4bddbdd59ed2f3.jpg",
+    "index.html": "/ReactJS_ZTC_HOSTING/index.html",
+    "main.6afb122f.css.map": "/ReactJS_ZTC_HOSTING/static/css/main.6afb122f.css.map",
+    "main.bd3f9ee5.js.map": "/ReactJS_ZTC_HOSTING/static/js/main.bd3f9ee5.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6afb122f.css",
+    "static/js/main.bd3f9ee5.js"
+  ]
+}
